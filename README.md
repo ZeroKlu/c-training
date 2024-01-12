@@ -14,13 +14,13 @@ C Training
 
 ### Setup/Requirements ###
 
-* Follow instructions in:
-    * Setting Up Your Workstation for Development Training.pdf
-    * Setting Up Your Workstation for C & C++ Development.pdf
+* Follow instructions in the following documents (in order):
+    * [Setting Up Your Workstation for Development Training.pdf](https://drive.google.com/open?id=1nUeMa4p58ylraf_kB5VrL1hZiNpOCt5M&usp=drive_fs)
+    * [Setting Up Your Workstation for C & C++ Training.pdf](https://drive.google.com/open?id=1nvzOWzrolVEvoLzUgSnCulSk2COzpvOk&usp=drive_fs)
 
 ### Documentation ###
 
-* All documentation located in /00 - Resources/Setup Documentation/
+* All documentation located in /00 - Resources/Setup Documents/
 
 ### Who do I talk to? ###
 
